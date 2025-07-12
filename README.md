@@ -30,6 +30,6 @@ The dataset is sourced from [Kaggle - Brain Tumor Classification (MRI)](https://
 ### 🧮 Confusion Matrix Insight
 
 - ✅ High overall **precision** and **recall** across all classes
-- ⚠️ A few misclassifications observed between **pituitary** and **glioma** tumor classes
+
 
 
